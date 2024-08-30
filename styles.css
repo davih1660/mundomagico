@@ -334,18 +334,19 @@ footer>div {
   justify-content: center;
   align-items: center;
   gap: 48px;
-  color: #fff;
 }
 
 footer nav {
   display: flex;
   align-items: center;
   width: 100%;
+  color: #fff;
 }
 
 footer nav>* {
   width: 100%;
   text-align: center;
+  color: #fff;
 }
 
 footer a {
@@ -369,4 +370,9 @@ footer .contato {
   display: flex;
   align-items: center;
   gap: 16px;
+  color: #fff;
+}
+
+footer .contato>*{
+  color: #fff;
 }
